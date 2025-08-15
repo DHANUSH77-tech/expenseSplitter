@@ -1,0 +1,4 @@
+*.js linguist-detectable=true
+*.jsx linguist-detectable=true
+*.ps1 linguist-detectable=false
+*.bat linguist-detectable=false
